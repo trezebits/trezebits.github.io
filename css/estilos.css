@@ -1,21 +1,43 @@
-body {font-family: Georgia, serif;}
+:root {
+    --md-primary-fg-color:        #5382B0;
+}
 
-.md-typeset p { text-align: justify;
-                color: white;}
-                
+.md-grid {
+    max-width: 1000px; 
+  }
+
+.md-typeset p { text-align: justify;}
+
 .md-typeset h1 { font-size: 3em;
-                 color: white; 
-                 text-shadow: 2px 2px #000000;}
+                 color: SteelBlue; }
 
-.md-typeset a  { color: yellow}
+.md-typeset h2 { border-bottom: 1px solid teal;
+                 color: CadetBlue;}
+
+.md-typeset h3 { color: CadetBlue;
+                 font-style: italic; }
+
+.md-typeset a  { color: cornflowerblue;
+                 font-weight: bold; }
+
+.md-typeset blockquote  { font-style: italic;  padding-left: 50px; }
+
+.md-typeset .admonition  { font-size: 1em; font-family:Georgia }
+
+.md-typeset__table thead{color: white;
+                     background-color: #5382B0;
+                     font-size: 1em;}
+
+.md-typeset__table td{font-size: 1.2em;}
+
+.md-typeset .hll { background-color: #DDDDDD;}
+
+.sombra {box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
     
-.md-main {background-image: url("../img/fondo.jpg");
-          background-size: cover;}
-  
-li { color: white; }
+.conmarco {box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+           padding: 10px;}
 
-.md-typeset blockquote  { 
-    color: yellow; 
-    border-left: 0px;  
-    font-style: italic;  
-    padding-left: 50px; }
+.sinmarco {box-shadow: none;}
+
+
+
