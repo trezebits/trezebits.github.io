@@ -2,7 +2,7 @@ Lista de cuadernos:
 
 ## Usando Linux en un Mac
 
-<a href="https://trezebits.github.io/guiainstalarlinux/">
+<a href="https://trezebits.github.io/tutorial_linux_en_mac/">
   <img src="cuadernos.png" style="float:left;padding-right:20px">
 </a>
 
