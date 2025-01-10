@@ -1,4 +1,7 @@
-Lista de cuadernos:
+<div style="text-align: center;"><i>If you give someone a program, you will frustrate them for a day; <br>
+if you teach them to program, you will frustrate them for a lifetime.</i>
+  <hr>
+</div>
 
 ## Usando Linux en un Mac
 
