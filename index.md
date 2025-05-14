@@ -9,7 +9,7 @@ if you teach them to program, you will frustrate them for a lifetime.</i>
   <img src="cuadernos.png" style="float:left;padding-right:20px">
 </a>
 
-Para mis experimentos personales me gusta "trastear" con el sistema operativo Linux, pero sin interferir en la configuración de mi ordenador ni ponerlo todo "patas arriba". En este cuaderno explico como aislar mi espacio de trabajo creando una máquina virtual.<br><br><br>
+Para mis experimentos personales me gusta "trastear" con el sistema operativo Linux, pero sin interferir en la configuración de mi ordenador ni ponerlo todo "patas arriba". En este cuaderno explico como aislar mi espacio de trabajo creando una máquina virtual.<br><br>
 
 ## Escribiendo mis apuntes 
 
