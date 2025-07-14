@@ -3,6 +3,16 @@ if you teach them to program, you will frustrate them for a lifetime.</i>
   <hr>
 </div>
 
+## Python desde cero
+
+<a href="https://trezebits.github.io/python_desde_cero/">
+  <img src="endesarrollo.jpg" style="float:left;padding-right:20px">
+</a>
+
+Un pequeño tutorial para quienes quieran iniciarse en el lenguaje de programación Python.
+
+Cuaderno en desarrollo.
+
 ## Usando Linux en un Mac
 
 <a href="https://trezebits.github.io/tutorial_linux_en_mac/">
@@ -26,13 +36,5 @@ Para elaborar estos cuadernos de notas utilizo un programa llamada [Material for
 </a>
 
 En este cuaderno hago un repaso de mi experiencia con el editor de textos [Geany](https://www.geany.org).<br><br><br><br>
-
-## Tutorial del lenguaje de programación C
-
-<a>
-  <img src="endesarrollo.jpg" style="float:left;padding-right:20px">
-</a>
-
-Cuaderno en preparación.
 
 <br><br><br><br>
