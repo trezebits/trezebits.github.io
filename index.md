@@ -11,7 +11,7 @@ if you teach them to program, you will frustrate them for a lifetime.</i>
 </a>
 
 Un pequeño tutorial para quienes quieran iniciarse en el lenguaje de programación Python.
-
+<br><br><br>
 
 ## Usando Linux en un Mac
 
