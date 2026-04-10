@@ -7,12 +7,11 @@ if you teach them to program, you will frustrate them for a lifetime.</i>
 ## Python desde cero
 
 <a href="https://trezebits.github.io/python_desde_cero/">
-  <img src="endesarrollo.jpg" style="float:left;padding-right:20px">
+  <img src="cuadernos.jpg" style="float:left;padding-right:20px">
 </a>
 
 Un pequeño tutorial para quienes quieran iniciarse en el lenguaje de programación Python.
 
-Cuaderno en desarrollo.
 
 ## Usando Linux en un Mac
 
@@ -50,12 +49,3 @@ por el otro.
 En este cuaderno hago un repaso de mi experiencia con el editor de textos 
 [Geany](https://www.geany.org).<br><br><br><br>
 
-## Aprendiendo Python desde cero
-
-<a href="https://trezebits.github.io/python_desde_cero/">
-  <img src="cuadernos.png" style="float:left;padding-right:20px">
-</a>
-
-Una introducción al lenguaje de programación Python.<br><br><br><br>
-
-<br><br><br><br>
