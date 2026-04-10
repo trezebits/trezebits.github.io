@@ -7,7 +7,7 @@ if you teach them to program, you will frustrate them for a lifetime.</i>
 ## Python desde cero
 
 <a href="https://trezebits.github.io/python_desde_cero/">
-  <img src="cuadernos.jpg" style="float:left;padding-right:20px">
+  <img src="cuadernos.png" style="float:left;padding-right:20px">
 </a>
 
 Un pequeño tutorial para quienes quieran iniciarse en el lenguaje de programación Python.
