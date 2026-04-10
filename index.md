@@ -1,6 +1,7 @@
-<div style="text-align: center;"><i>If you give someone a program, you will frustrate them for a day; <br>
+<div style="text-align: center;">
+<i>If you give someone a program, you will frustrate them for a day; <br>
 if you teach them to program, you will frustrate them for a lifetime.</i>
-  <hr>
+<hr>
 </div>
 
 ## Usando Linux en un Mac
@@ -9,15 +10,26 @@ if you teach them to program, you will frustrate them for a lifetime.</i>
   <img src="cuadernos.png" style="float:left;padding-right:20px">
 </a>
 
-Para mis experimentos personales me gusta "trastear" con el sistema operativo Linux, pero sin interferir en la configuración de mi ordenador ni ponerlo todo "patas arriba". En este cuaderno explico como aislar mi espacio de trabajo creando una máquina virtual.<br><br>
+Para mis experimentos personales me gusta "trastear" con el sistema operativo 
+Linux, pero sin interferir en la configuración de mi ordenador ni ponerlo todo 
+"patas arriba". En este cuaderno explico como aislar mi espacio de trabajo 
+creando una máquina virtual.<br><br>
 
 ## Escribiendo mis apuntes 
 
-<a href="https://trezebits.github.io/tutorial_mkdocs/">
+<a href="https://trezebits.github.io/">
   <img src="cuadernos.png" style="float:left;padding-right:20px">
 </a>
 
-Para elaborar estos cuadernos de notas utilizo un programa llamada [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/), que convierte documentos de texto en páginas web. Posteriormente, subo los resultados a un servidor. Aquí hago un repaso de todo el proceso.<br><br><br>
+Para elaborar estos cuadernos de notas, durante años he venido utilizando un 
+programa llamada [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/), 
+que convierte documentos de texto en páginas web. 
+Posteriormente, subo los resultados a un servidor. 
+
+Desde abril de 2026 estoy ensayando con un software llamado 
+[mdBook](https://rust-lang.github.io/mdBook/). En breve sustituiré un tutorial
+por el otro.
+<br><br><br>
 
 ## Tutorial del editor de textos *Geany* 
 
@@ -25,7 +37,16 @@ Para elaborar estos cuadernos de notas utilizo un programa llamada [Material for
   <img src="cuadernos.png" style="float:left;padding-right:20px">
 </a>
 
-En este cuaderno hago un repaso de mi experiencia con el editor de textos [Geany](https://www.geany.org).<br><br><br><br>
+En este cuaderno hago un repaso de mi experiencia con el editor de textos 
+[Geany](https://www.geany.org).<br><br><br><br>
+
+## Aprendiendo Python desde cero
+
+<a href="https://trezebits.github.io/python_desde_cero/">
+  <img src="cuadernos.png" style="float:left;padding-right:20px">
+</a>
+
+Una introducción al lenguaje de programación Python.<br><br><br><br>
 
 ## Tutorial del lenguaje de programación C
 
