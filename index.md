@@ -27,7 +27,7 @@ Un pequeño tutorial para quienes quieran iniciarse en el lenguaje de programaci
 
 ## Tutorial de mdBook
 
-<a href="https://trezebits.github.io/">
+<a href="https://trezebits.github.io/tutorial_mdbook">
   <img src="cuadernos.png" style="float:left;padding-right:20px">
 </a>
 
@@ -40,10 +40,6 @@ Desde abril de 2026 estoy ensayando con un software llamado
 [mdBook](https://rust-lang.github.io/mdBook/). En este cuaderno hago un repaso
 de mis experiencias.
 <br><br><br>
-
-
-https://github.com/trezebits/tutorial_mdbook/blob/main/README.md
-
 
 
 ## Tutorial del editor de textos *Geany* 
