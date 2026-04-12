@@ -4,15 +4,6 @@ if you teach them to program, you will frustrate them for a lifetime.</i>
 <hr>
 </div>
 
-## Python desde cero
-
-<a href="https://trezebits.github.io/python_desde_cero/">
-  <img src="cuadernos.png" style="float:left;padding-right:20px">
-</a>
-
-Un pequeño tutorial para quienes quieran iniciarse en el lenguaje de programación Python.
-<br><br><br><br>
-
 ## Usando Linux en un Mac
 
 <a href="https://trezebits.github.io/tutorial_linux_en_mac/">
@@ -24,7 +15,17 @@ Linux, pero sin interferir en la configuración de mi ordenador ni ponerlo todo
 "patas arriba". En este cuaderno explico como aislar mi espacio de trabajo 
 creando una máquina virtual.<br><br>
 
-## Escribiendo mis apuntes 
+## Python desde cero
+
+<a href="https://trezebits.github.io/python_desde_cero/">
+  <img src="cuadernos.png" style="float:left;padding-right:20px">
+</a>
+
+Un pequeño tutorial para quienes quieran iniciarse en el lenguaje de programación Python.
+<br><br><br><br>
+
+
+## Tutorial de mdBook
 
 <a href="https://trezebits.github.io/">
   <img src="cuadernos.png" style="float:left;padding-right:20px">
@@ -36,9 +37,14 @@ que convierte documentos de texto en páginas web.
 Posteriormente, subo los resultados a un servidor. 
 
 Desde abril de 2026 estoy ensayando con un software llamado 
-[mdBook](https://rust-lang.github.io/mdBook/). En breve sustituiré un tutorial
-por el otro.
+[mdBook](https://rust-lang.github.io/mdBook/). En este cuaderno hago un repaso
+de mis experiencias.
 <br><br><br>
+
+
+https://github.com/trezebits/tutorial_mdbook/blob/main/README.md
+
+
 
 ## Tutorial del editor de textos *Geany* 
 
@@ -46,6 +52,6 @@ por el otro.
   <img src="cuadernos.png" style="float:left;padding-right:20px">
 </a>
 
-En este cuaderno hago un repaso de mi experiencia con el editor de textos 
+En este cuaderno hago un recorrido por el editor de textos 
 [Geany](https://www.geany.org).<br><br><br><br>
 
