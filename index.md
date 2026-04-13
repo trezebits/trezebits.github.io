@@ -31,14 +31,13 @@ Un pequeño tutorial para quienes quieran iniciarse en el lenguaje de programaci
   <img src="cuadernos.png" style="float:left;padding-right:20px">
 </a>
 
-Para elaborar estos cuadernos de notas, durante años he venido utilizando un 
-programa llamada [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/), 
-que convierte documentos de texto en páginas web. 
-Posteriormente, subo los resultados a un servidor. 
+Durante años he venido utilizando un 
+programa llamado [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/), 
+para convertir mis notas en páginas web.
 
 Desde abril de 2026 estoy ensayando con un software llamado 
 [mdBook](https://rust-lang.github.io/mdBook/). En este cuaderno hago un repaso
-de mis experiencias.
+de mi experiencia.
 <br><br><br>
 
 
